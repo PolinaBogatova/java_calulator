@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab 01 Calculator</string>
+    <string name="But1_name">Add</string>
+    <string name="But2_name">Subtract</string>
+    <string name="But3_name">Multiply</string>
+    <string name="But4_name">Divide</string>
+    <string name="But_sin">Sin</string>
+    <string name="But_cos">Cos</string>
+    <string name="But_Tan">Tan</string>
+    <string name="But_Sqrt">Sqrt</string>
+    <string name="But_Pow">Pow(A^B)</string>
+</resources>
